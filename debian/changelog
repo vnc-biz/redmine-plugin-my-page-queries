@@ -1,0 +1,5 @@
+redmine-plugin-my-page-queries (0.0.1.1-precise2) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 06 Sep 2012 04:48:13 +0200

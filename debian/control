@@ -1,0 +1,13 @@
+Source: redmine-plugin-my-page-queries
+Section: web
+Priority: extra
+Maintainer: Enrico Weigelt, metux IT service <weigelt@metux.de>
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 7)
+
+Package: redmine-plugin-my-page-queries
+Architecture: all
+Pre-Depends: debconf
+Depends: redmine-core,
+	 ${misc:Depends}
+Description: Redmine plugin: custom queries on my-page
